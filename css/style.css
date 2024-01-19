@@ -1,0 +1,23 @@
+.Titre {
+
+background-color: rgb(255, 0, 0);
+
+
+}
+
+img.img-thumbnail{
+width: 500px;
+height: 450px;
+filter: drop-shadow(0 0,0.75rem );
+
+}
+
+
+
+.container{
+
+background-color: black;
+color: aliceblue;
+
+
+}
